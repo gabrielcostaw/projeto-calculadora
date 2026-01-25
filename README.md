@@ -66,4 +66,4 @@ Estou em busca da minha primeira oportunidade como **Estagiário de Desenvolvime
 
 * **LinkedIn:** [Gabriel Costa dos Santos](https://www.linkedin.com/in/gabriel-costa-228ab0382/)
 * **E-mail:** [gcstsantos@gmail.com]
-* **GitHub:** [gbcostaw](https://github.com/gabrielcostaw)
+* **GitHub:** [gbcostaw](https://github.com/gabrielcostaw)git push origin main
